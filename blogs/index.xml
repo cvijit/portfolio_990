@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Vijit Laxman Chekkala</title>
+    <link>https://cvijit.github.io/portfolio_990/blogs/</link>
+    <description>Recent content in Blogs on Vijit Laxman Chekkala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://cvijit.github.io/portfolio_990/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dataset Size</title>
+      <link>https://cvijit.github.io/portfolio_990/blogs/blog3/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://cvijit.github.io/portfolio_990/blogs/blog3/</guid>
+      <description>The size of the dataset can have an effect on the machine learning algorithm applied. However it is unpredictable about how the dataset size can have an impact on the model. Sometimes a machine learning algorithm can produce valuable information and predict good results from 100 samples of data points. In other cases, it becomes difficult to extract information from even 10,000 samples of data points. The information inside the data sets matters for the machine learning algorithms rather than the size of the dataset.</description>
+    </item>
+    
+    <item>
+      <title>Dimensionality Reduction Techniques</title>
+      <link>https://cvijit.github.io/portfolio_990/blogs/blog1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://cvijit.github.io/portfolio_990/blogs/blog1/</guid>
+      <description>Dimensionality reduction - If a data mining/machine learning project is considered to be complex, then it is sure that the data types in such projects consist of image and video data or multi-class classification data points. This data which acts as input variables in the datasets are called dimensions and the dimensionality reduction technique is carried out to reduce them based on their importance. Some basic dimensionality reduction techniques are to deal with the missing values, low variance in column values, high correlation between the columns.</description>
+    </item>
+    
+    <item>
+      <title>Ensemble Approaches</title>
+      <link>https://cvijit.github.io/portfolio_990/blogs/blog5/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://cvijit.github.io/portfolio_990/blogs/blog5/</guid>
+      <description>In machine learning, no one algorithm alone can provide good results in prediction. However better predictions can be generated if multiple learning algorithms are used, called ensemble learning. Therefore using a combination of base learners are used to get higher accuracy in predicting the target variable. The base learner differs as every model implemented will have different algorithms, internal parameters, training sets and different solutions based on the business problem.</description>
+    </item>
+    
+    <item>
+      <title>Feature Engineering</title>
+      <link>https://cvijit.github.io/portfolio_990/blogs/blog2/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://cvijit.github.io/portfolio_990/blogs/blog2/</guid>
+      <description>The best way to create a good prediction model is to make the best use of the data that is available. In a machine learning project, the results depend on many factors like the business problem, the data available, features extracted, defined algorithms and the evaluation method. The most important step in all these are the features extracted based on their importance or the business problem. If wrong parameters or a low optimal model is implemented on good features, it can still produce good results because of the structure of the data.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Deep Learning with Artificial Neural Networks</title>
+      <link>https://cvijit.github.io/portfolio_990/blogs/blog4/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://cvijit.github.io/portfolio_990/blogs/blog4/</guid>
+      <description>Unsupervised Deep Learning with Artificial Neural Networks (ANN): In the context of unsupervised learning, ANN helps discover itself by forming patterns, clusters or based on the relationships of interests. The networks have some self-organizing property and the all the results from the previous networks are evaluated.
+  Two categories of ANN approaches are: Competitive learning where the decision made by the neural networks belong to either clustering or classification and Hebbian learning are more directed towards the components of the input data in a project.</description>
+    </item>
+    
+  </channel>
+</rss>

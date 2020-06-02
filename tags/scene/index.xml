@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Vijit Laxman Chekkala</title>
+    <link>https://cvijit.github.io/portfolio_990/tags/scene/</link>
+    <description>Recent content in scene on Vijit Laxman Chekkala</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2019 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="https://cvijit.github.io/portfolio_990/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Applying business intelligence to alpha group insurance company focusing on revenue statistics</title>
+      <link>https://cvijit.github.io/portfolio_990/post/project-5/</link>
+      <pubDate>Sun, 08 Dec 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://cvijit.github.io/portfolio_990/post/project-5/</guid>
+      <description>AlfaStrakhovanie Group remains one of the largest insurance companies in Russia, offering a wide range of insurance services for clients not excluding life insurance. Here it is focused on the sector within the company that provides auto insurance. Power BI is used to make dashboards and visualisations which will provide detailed insights on the company’s performance. CRM which is a tool to manage the relationship between a company and its active or inactive customers will be used in this study as a means to track customer service responsiveness, which can be understood by analysing the cases and providing solutions to them.</description>
+    </item>
+    
+    <item>
+      <title>Investigate leading causes of deaths based on drug usage and violation of crime. </title>
+      <link>https://cvijit.github.io/portfolio_990/post/project-2/</link>
+      <pubDate>Sun, 10 Nov 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://cvijit.github.io/portfolio_990/post/project-2/</guid>
+      <description>The main aim of the project is to find four parallel data sets on a specific domain and performing exploratory data analysis. Insights produced from this process are visualised using different plots. After thorough research, we had summarised the root cause of deaths due to factors like shooting incidents, drug use, criminal courts and other leading causes of deaths in the United States of America. Also, we estimated the death rates as per factors like gender, race, targeted locations, and boroughs.</description>
+    </item>
+    
+  </channel>
+</rss>
